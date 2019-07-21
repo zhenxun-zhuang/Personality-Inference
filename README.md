@@ -5,4 +5,6 @@ With every new encounter, one is assessed and another person’s impression of h
 **[Deep Bimodal Regression for Apparent Personality Analysis](https://cs.nju.edu.cn/wujx/paper/eccvw16_APA.pdf)** 
 Chen-Lin Zhang, Hao Zhang, Xiu-Shen Wei, Jianxin Wu
 
+The above paper was the winner of the **[2016 Looking at People ECCV Challenge](http://gesture.chalearn.org/2016-looking-at-people-eccv-workshop-challenge)**.
+
 Also thanks to the developers of the **[MatConvNet](http://www.vlfeat.org/matconvnet/)** which I used in this project.
